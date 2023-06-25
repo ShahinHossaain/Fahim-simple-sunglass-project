@@ -1,0 +1,43 @@
+[
+    {
+      "buyerName": "John Doe",
+      "product": "Widget X",
+      "deliveryStatus": "regular"
+    },
+    {
+      "buyerName": "Jane Smith",
+      "product": "Widget Y",
+      "deliveryStatus": "express"
+    },
+    {
+      "buyerName": "Michael Johnson",
+      "product": "Widget Z",
+      "deliveryStatus": "regular"
+    },
+    {
+      "buyerName": "Emily Davis",
+      "product": "Widget A",
+      "deliveryStatus": "express"
+    },
+    {
+      "buyerName": "Alex Turner",
+      "product": "Widget B",
+      "deliveryStatus": "regular"
+    },
+    {
+      "buyerName": "Sophia Garcia",
+      "product": "Widget C",
+      "deliveryStatus": "express"
+    },
+    {
+      "buyerName": "William Lee",
+      "product": "Widget D",
+      "deliveryStatus": "regular"
+    },
+    {
+      "buyerName": "Olivia Moore",
+      "product": "Widget E",
+      "deliveryStatus": "express"
+    }
+  ]
+  
